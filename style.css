@@ -72,4 +72,20 @@ button {
 
 footer {
   flex: 0 1 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-content {
+  color: #bdbdbd;
+  text-align: center;
+  font-size: 0.875rem;
+  font-style: normal;
+  font-weight: 500;
+}
+
+#username {
+  color: #bdbdbd;
+  font-weight: 700;
+  text-decoration-line: underline;
 }
